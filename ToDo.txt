@@ -1,0 +1,23 @@
+Things To Do
+------------
+
+Functional
+	X Blog!
+		X Upload image functionality on blog frontend
+		* Delete image from backend
+		X Add anonymous comment functionality
+		X Comment moderation in backend
+		X Create styles for posts/comments
+	X Update FancyBox!
+	X Fix treeview opening multiple sections
+	X Fix treeview pagename too long
+	X Transfer data from old site to new system
+	X Fix gallery on section top page problem!
+	X Make image processing for sidenav background image
+		* Make part of image uploading process and edit image page
+		* Only allow when the image is large enough to fit the sidenav
+	
+Aesthetic
+	X Make home page icon for page list
+	- hasthumb icon for image list
+	X Alternating row colors (make top level yellow maybe)

@@ -1,0 +1,79 @@
+body {
+	margin-top: 0px;
+	background-image: url('images/bg_image.jpg');
+	margin-left: 0px;
+	margin-right: 0px;
+	background-repeat: repeat-x;
+}
+
+#content_container {
+	float: left;
+	width: 950px;
+}
+
+#leftcolumn {
+	float: left;
+	width: 425px;
+	text-align: center;
+}
+
+#rightcolumn {
+	margin-left: 425px;
+}
+
+div.leftimage {
+	clear: both;
+	text-align: center;
+}
+
+div.borderbox_container {
+	float: left;
+	width: 187px;
+	margin: 0px 10px;
+}
+
+div.borderbox_head {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20pt;
+	font-weight: bold;
+	line-height: 2;
+	color: #033;
+}
+
+div.borderbox_text {
+	background-image: url('images/border_mid.png');
+	background-repeat: repeat-y;
+	background-position: left;
+	padding: 5px 20px 10px 20px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: normal;
+	line-height: 1.5;
+	color: #666;
+}
+
+div.borderbox_top {
+	height: 15px;
+	width: 100%;
+	background-image: url('images/border_top.png');
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+div.borderbox_bottom {
+	height: 15px;
+	width: 100%;
+	background-image: url('images/border_bottom.png');
+	background-repeat: no-repeat;
+	background-position: left;
+}
+
+div.caption {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	line-height: 1.5;
+	color: #666666;
+}

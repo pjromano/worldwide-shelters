@@ -1,0 +1,10 @@
+ErrorDocument 404 /404.php
+
+Redirect /index.html /index.php
+Redirect /shelters.html /transitional.php
+Redirect /programs.html /projects.php
+Redirect /about.html /about.php
+Redirect /who_we_help.html /who_we_help.php
+Redirect /shelters_in_use.html /shelters_in_use.php
+Redirect /contact.html /contact.php
+

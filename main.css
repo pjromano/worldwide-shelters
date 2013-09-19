@@ -1,0 +1,13 @@
+body {
+	margin-top: 0px;
+	background-image: url('images/bg_image_small.jpg');
+	margin-left: 0px;
+	margin-right: 0px;
+	background-repeat: repeat-x;
+}
+
+#content_container {
+	width: 640px;
+	padding-top: 50px;
+	padding-left: 310px;
+}

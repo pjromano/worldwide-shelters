@@ -1,0 +1,8 @@
+ErrorDocument 404 /404
+
+Options +SymLinksIfOwnerMatch
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]*)/?([^/]*)?/?(page)?/?$ index.php?section=$1&page=$2 [QSA]
